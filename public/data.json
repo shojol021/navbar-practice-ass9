@@ -1,0 +1,37 @@
+[
+    {
+        "id": "gym001",
+        "name": "FitZone Gym",
+        "price": "50",
+        "short_features": [
+            "24/7 access",
+            "State-of-the-art equipment",
+            "Group fitness classes",
+            "Personal training sessions"
+        ]
+    },
+    
+    {
+        "id": "gym002",
+        "name": "Iron Fitness",
+        "price": "75",
+        "short_features": [
+            "Free weights",
+            "Cardio machines",
+            "Sauna",
+            "Yoga classes"
+        ]
+    },
+
+    {
+        "id": "gym003",
+        "name": "Flex Gym",
+        "price": "60",
+        "short_features": [
+            "Functional training area",
+            "Indoor cycling studio",
+            "Basketball court",
+            "Nutrition counseling"
+        ]
+    }
+]
